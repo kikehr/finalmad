@@ -1,0 +1,1 @@
+[('RemoveNans', SimpleImputer(), <sklearn.compose._column_transformer.make_column_selector object at 0x7da56a256960>)]

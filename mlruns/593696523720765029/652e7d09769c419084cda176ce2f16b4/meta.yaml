@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/652e7d09769c419084cda176ce2f16b4/artifacts
+end_time: 1756483755357
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 652e7d09769c419084cda176ce2f16b4
+run_name: blushing-squid-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756483750870
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/34959ad5183b4977a008c0c21dddc373/artifacts
+end_time: 1757956709474
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 34959ad5183b4977a008c0c21dddc373
+run_name: learned-snail-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757956705145
+status: 3
+tags: []
+user_id: codespace

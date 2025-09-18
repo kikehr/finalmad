@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/8525647fd9394af78fe39646de599e1c/artifacts
+end_time: 1758097810728
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 8525647fd9394af78fe39646de599e1c
+run_name: bedecked-crane-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758097807495
+status: 3
+tags: []
+user_id: codespace

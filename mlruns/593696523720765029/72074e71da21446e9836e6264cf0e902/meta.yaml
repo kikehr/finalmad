@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/72074e71da21446e9836e6264cf0e902/artifacts
+end_time: 1758039958480
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 72074e71da21446e9836e6264cf0e902
+run_name: worried-eel-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758039954373
+status: 3
+tags: []
+user_id: codespace

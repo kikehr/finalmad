@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/29e3b11c99d649f085c2440f30981a29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 29e3b11c99d649f085c2440f30981a29
+run_name: invincible-slug-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758097842479
+status: 1
+tags: []
+user_id: codespace

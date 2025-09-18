@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/8e5e432a8ad241c9b0432629c8a9d035/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 8e5e432a8ad241c9b0432629c8a9d035
+run_name: secretive-shoat-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758099397723
+status: 1
+tags: []
+user_id: codespace

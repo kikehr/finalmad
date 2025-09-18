@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/0a4186a74c2e43158de68f0038cdfc02/artifacts
+end_time: 1756199802346
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 0a4186a74c2e43158de68f0038cdfc02
+run_name: nimble-deer-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756199802329
+status: 4
+tags: []
+user_id: codespace

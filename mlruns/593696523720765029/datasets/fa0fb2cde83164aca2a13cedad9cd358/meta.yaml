@@ -1,0 +1,20 @@
+digest: 95f2bf23
+name: dataset
+profile: '{"num_rows": 12, "num_elements": 204}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "familia", "required": true},
+  {"type": "long", "name": "articulo", "required": true}, {"type": "datetime", "name":
+  "fecha_venta", "required": true}, {"type": "any", "name": "festivo", "required":
+  false}, {"type": "double", "name": "precio", "required": true}, {"type": "double",
+  "name": "importe", "required": true}, {"type": "long", "name": "orden_articulo_familia",
+  "required": true}, {"type": "double", "name": "cantidad (t-4 weeks)", "required":
+  true}, {"type": "double", "name": "cantidad (t-3 weeks)", "required": true}, {"type":
+  "double", "name": "cantidad (t-2 weeks)", "required": true}, {"type": "double",
+  "name": "cantidad (t-1 weeks)", "required": true}, {"type": "double", "name": "cantidad
+  (t-6 days)", "required": true}, {"type": "double", "name": "cantidad (t-5 days)",
+  "required": true}, {"type": "double", "name": "cantidad (t-4 days)", "required":
+  true}, {"type": "double", "name": "cantidad (t-3 days)", "required": true}, {"type":
+  "double", "name": "cantidad (t-2 days)", "required": true}, {"type": "double", "name":
+  "cantidad (t-1 days)", "required": true}]}'
+source: '{"tags": {"mlflow.user": "codespace", "mlflow.source.name": "/workspaces/finalmad/.venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

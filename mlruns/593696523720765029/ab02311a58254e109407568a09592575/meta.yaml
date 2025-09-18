@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/ab02311a58254e109407568a09592575/artifacts
+end_time: 1758013611499
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: ab02311a58254e109407568a09592575
+run_name: receptive-owl-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758013606889
+status: 3
+tags: []
+user_id: codespace

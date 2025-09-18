@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/9c1559a733524674a2620e251af2e219/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 9c1559a733524674a2620e251af2e219
+run_name: funny-lynx-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758128862466
+status: 1
+tags: []
+user_id: codespace

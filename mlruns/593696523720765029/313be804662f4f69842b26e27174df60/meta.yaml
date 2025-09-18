@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/313be804662f4f69842b26e27174df60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 313be804662f4f69842b26e27174df60
+run_name: fun-loon-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758098571120
+status: 1
+tags: []
+user_id: codespace

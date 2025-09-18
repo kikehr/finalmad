@@ -1,0 +1,17 @@
+digest: 24bf701c
+name: dataset
+profile: '{"num_rows": 718, "num_elements": 9334}'
+schema: '{"mlflow_colspec": [{"type": "datetime", "name": "fecha_venta", "required":
+  true}, {"type": "string", "name": "festivo", "required": false}, {"type": "double",
+  "name": "precio", "required": true}, {"type": "double", "name": "cantidad (t-4 weeks)",
+  "required": false}, {"type": "double", "name": "cantidad (t-3 weeks)", "required":
+  false}, {"type": "double", "name": "cantidad (t-2 weeks)", "required": false}, {"type":
+  "double", "name": "cantidad (t-1 weeks)", "required": false}, {"type": "double",
+  "name": "cantidad (t-6 days)", "required": false}, {"type": "double", "name": "cantidad
+  (t-5 days)", "required": false}, {"type": "double", "name": "cantidad (t-4 days)",
+  "required": false}, {"type": "double", "name": "cantidad (t-3 days)", "required":
+  false}, {"type": "double", "name": "cantidad (t-2 days)", "required": false}, {"type":
+  "double", "name": "cantidad (t-1 days)", "required": false}]}'
+source: '{"tags": {"mlflow.user": "codespace", "mlflow.source.name": "/workspaces/finalmad/.venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

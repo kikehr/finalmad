@@ -1,0 +1,1 @@
+[('OneHotEncoder', OneHotEncoder(handle_unknown='ignore', sparse_output=False), <sklearn.compose._column_transformer.make_column_selector object at 0x729b8d475370>), ('MinMaxScaler', MinMaxScaler(), <sklearn.compose._column_transformer.make_column_selector object at 0x729b8d504fe0>)]

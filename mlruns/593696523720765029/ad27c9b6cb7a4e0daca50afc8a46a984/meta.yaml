@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/ad27c9b6cb7a4e0daca50afc8a46a984/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: ad27c9b6cb7a4e0daca50afc8a46a984
+run_name: intrigued-wren-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758101419543
+status: 1
+tags: []
+user_id: codespace

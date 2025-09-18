@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593696523720765029/45403560d03c4c99ab819d5287e3c88c/artifacts
+end_time: 1758041431440
+entry_point_name: ''
+experiment_id: '593696523720765029'
+lifecycle_stage: active
+run_id: 45403560d03c4c99ab819d5287e3c88c
+run_name: rumbling-lamb-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758041427553
+status: 3
+tags: []
+user_id: codespace
