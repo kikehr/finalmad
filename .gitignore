@@ -2,4 +2,4 @@ mlartifacts/
 mlruns/
 mlflowgarbage/
 datosxls/
-.venv/
+venv/
