@@ -1,2 +1,0 @@
-ColumnTransformer(transformers=[('RemoveNans', SimpleImputer(),
-                                 <sklearn.compose._column_transformer.make_column_selector object at 0x7549444e12b0>)])

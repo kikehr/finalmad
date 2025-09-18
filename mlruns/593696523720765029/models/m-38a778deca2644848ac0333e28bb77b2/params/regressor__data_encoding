@@ -1,6 +1,0 @@
-ColumnTransformer(transformers=[('OneHotEncoder',
-                                 OneHotEncoder(handle_unknown='ignore',
-                                               sparse_output=False),
-                                 <sklearn.compose._column_transformer.make_column_selector object at 0x7f2e87a30f20>),
-                                ('MinMaxScaler', MinMaxScaler(),
-                                 <sklearn.compose._column_transformer.make_column_selector object at 0x7f2e98b2a570>)])

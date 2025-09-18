@@ -1,7 +1,0 @@
-[('preprocessor', PreprocessTransformer(location=(36.721477644071705, -4.363132134392174))), ('nan_remover', ColumnTransformer(transformers=[('RemoveNans', SimpleImputer(),
-                                 <sklearn.compose._column_transformer.make_column_selector object at 0x7f2e98ad5f40>)])), ('data_encoding', ColumnTransformer(transformers=[('OneHotEncoder',
-                                 OneHotEncoder(handle_unknown='ignore',
-                                               sparse_output=False),
-                                 <sklearn.compose._column_transformer.make_column_selector object at 0x7f2e87a30f20>),
-                                ('MinMaxScaler', MinMaxScaler(),
-                                 <sklearn.compose._column_transformer.make_column_selector object at 0x7f2e98b2a570>)])), ('model', RandomForestRegressor())]
